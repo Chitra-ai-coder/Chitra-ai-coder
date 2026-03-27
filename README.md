@@ -1,16 +1,23 @@
 <div align="center">
-  <!-- 🚨 REPLACE THE LINK BELOW WITH YOUR OWN PICTURE OR GIF BY DRAGGING AND DROPPING IT HERE 🚨 -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28zcm13cDNtNHR4M2NuaTJmMWZqOGZhdmJmc2V2YjBiNzI1YnNyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n92hYPiFQ0efcCtrF/giphy.gif"Profile Banner" width="100%" height="250" style="object-fit: cover;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28zcm13cDNtNHR4M2NuaTJmMWZqOGZhdmJmc2V2YjBiNzI1YnNyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n92hYPiFQ0efcCtrF/giphy.gif" alt="Profile Banner" width="100%" height="250" style="object-fit: cover;" />
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi,+I'm+Chitrabhanu+Hazra;ML+%26+Python+Backend+Developer;Data+Science+%26+3D+Modeling;Full-Stack+Web+Game+Creator" alt="Typing SVG" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chitra-ai-coder&color=E63946&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FChitra-ai-coder%2FChitra-ai-coder&label=VISITORS&labelColor=%23000&countColor=%23E63946&style=flat-square" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Chitra-ai-coder&color=E63946&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 ---
