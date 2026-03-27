@@ -56,14 +56,15 @@ I am a software developer based in Durgapur, West Bengal, specializing in Artifi
 ## 📈 Global Stats & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chitra-ai-coder&show_icons=true&theme=radical&hide_border=true&cache_seconds=10000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitra-ai-coder&layout=compact&theme=radical&hide_border=true&cache_seconds=10000" alt="Top Languages" width="48%" />
+  <!-- Highly stable Streak Stats server -->
+  <img src="https://streak-stats.demolab.com/?user=Chitra-ai-coder&theme=radical&hide_border=true" alt="GitHub Streak" width="80%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chitra-ai-coder&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&cache_seconds=10000" alt="GitHub Trophies"/>
+  <!-- The Activity Graph we know works perfectly -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitra-ai-coder&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 <br>
