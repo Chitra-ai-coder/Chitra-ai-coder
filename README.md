@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chitra-ai-coder&color=E63946&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/chitrabhanu-hazra-6764b031b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
