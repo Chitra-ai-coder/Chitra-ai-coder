@@ -69,10 +69,6 @@ I am a software developer based in Durgapur, West Bengal, specializing in Artifi
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitra-ai-coder&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</div>
-
 ---
 
 ## 🐍 Code Contribution Matrix
