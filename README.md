@@ -56,14 +56,14 @@ I am a software developer based in Durgapur, West Bengal, specializing in Artifi
 ## 📈 Global Stats & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chitra-ai-coder&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitra-ai-coder&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chitra-ai-coder&show_icons=true&theme=radical&hide_border=true&cache_seconds=10000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitra-ai-coder&layout=compact&theme=radical&hide_border=true&cache_seconds=10000" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chitra-ai-coder&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&v=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chitra-ai-coder&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&cache_seconds=10000" alt="GitHub Trophies"/>
 </div>
 
 <br>
