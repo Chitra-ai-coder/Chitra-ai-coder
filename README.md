@@ -1,4 +1,10 @@
 <div align="center">
+  <!-- 🚨 REPLACE THE LINK BELOW WITH YOUR OWN PICTURE OR GIF BY DRAGGING AND DROPPING IT HERE 🚨 -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28zcm13cDNtNHR4M2NuaTJmMWZqOGZhdmJmc2V2YjBiNzI1YnNyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n92hYPiFQ0efcCtrF/giphy.gif"Profile Banner" width="100%" height="250" style="object-fit: cover;" />
+</div>
+
+<br>
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi,+I'm+Chitrabhanu+Hazra;ML+%26+Python+Backend+Developer;Data+Science+%26+3D+Modeling;Full-Stack+Web+Game+Creator" alt="Typing SVG" />
 </div>
 
@@ -9,17 +15,19 @@
 
 ---
 
-## 🚀 System Override: About Me
+### 🧑‍💻 About Me
 
-I am an ML and Python Backend Developer based in Kolkata, West Bengal. A relentless tech enthusiast and a lifelong learner, I thrive on building end-to-end solutions—from engineering intelligent machine learning models to designing beautiful, responsive front-end experiences. 
-
-* 🔭 **Core Focus:** Designing machine learning prediction models, deep data analysis, robust backend architecture, and efficient database management.
-* 🎮 **Creative Bonus:** Beyond traditional code, I create custom **3D models** to bring virtual gaming environments to life.
-* 🌱 **Knowledge Expansion:** Constantly learning and integrating new tech, network topologies, and advanced ML algorithms.
-* ⚡ **Core Philosophy:** Optimize for logic, design for humans.
+```yaml
+name: Chitrabhanu Hazra
+location: Kolkata, West Bengal, India
+current_focus: "Engineering FRIDAY - A Python JARVIS-inspired AI Assistant"
+roles: [ML Engineer, Python Backend Developer, Full-Stack Game Creator]
+languages: [Python, Java, C, JavaScript, HTML/CSS]
+interests: [Predictive ML Models, Relational Databases, 3D Modeling, Web Arcade Games]
+fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D gaming environments by night 🚀"
+```
 
 ---
-
 ## 🛠️ The Tech Arsenal
 
 **Core Programming & Web** <br>
