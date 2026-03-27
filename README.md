@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi,+I'm+Chitrabhanu+Hazra;Architect+of+the+FRIDAY+AI;Python+%26+Machine+Learning;Full-Stack+Web+Game+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi,+I'm+Chitrabhanu+Hazra;ML+%26+Python+Backend+Developer;Data+Science+%26+3D+Modeling;Full-Stack+Web+Game+Creator" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,11 +11,11 @@
 
 ## 🚀 System Override: About Me
 
-I am a software developer based in Durgapur, West Bengal, specializing in Artificial Intelligence, predictive Machine Learning models, and interactive web development. I focus on bridging the gap between heavy algorithmic backends and clean, engaging user interfaces.
+I am an ML and Python Backend Developer based in Kolkata, West Bengal. A relentless tech enthusiast and a lifelong learner, I thrive on building end-to-end solutions—from engineering intelligent machine learning models to designing beautiful, responsive front-end experiences. 
 
-* 🔭 **Current Flagship Project:** Engineering **FRIDAY**, a JARVIS-inspired Python AI desktop assistant with voice-to-text integration and system automation.
-* 🌱 **Knowledge Expansion:** Deep diving into network topologies, relational database management, and advanced ML algorithms.
-* 🎮 **Creative Outlet:** Coding pure HTML/JS browser games from scratch, including Snake, Brick Breaker, and interactive sports dashboards.
+* 🔭 **Core Focus:** Designing machine learning prediction models, deep data analysis, robust backend architecture, and efficient database management.
+* 🎮 **Creative Bonus:** Beyond traditional code, I create custom **3D models** to bring virtual gaming environments to life.
+* 🌱 **Knowledge Expansion:** Constantly learning and integrating new tech, network topologies, and advanced ML algorithms.
 * ⚡ **Core Philosophy:** Optimize for logic, design for humans.
 
 ---
@@ -34,7 +34,8 @@ I am a software developer based in Durgapur, West Bengal, specializing in Artifi
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 
-**Architecture & Tools** <br>
+**Architecture, DB & Tools** <br>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -43,13 +44,19 @@ I am a software developer based in Durgapur, West Bengal, specializing in Artifi
 
 ## 💼 Mission Logs: Featured Projects
 
-### 🤖 Artificial Intelligence & Machine Learning
-* **FRIDAY Intelligent Assistant:** A personal AI agent engineered in Python, capable of voice-to-text transcription, taking notes, and executing system-level tasks.
-* **Predictive ML Suite:** An ecosystem of heavily trained models including an **IPL Match Winner Predictor**, a **House Price Prediction Engine**, and an advanced **Spam Mail Detection** tool.
+### 🤖 AI & Machine Learning
+* **Med-Recommend AI:** A machine learning-based medicine recommendation system.
+* **IPL Match Predictor:** A data-driven model forecasting cricket match outcomes based on historical stats.
+* **Real Estate Engine:** A house price prediction model analyzing market trends and valuations.
+* **Spam Mail Filter:** An NLP-powered classification model for intelligent inbox management.
 
-### 🌐 Web Architecture & Interactive Gaming
-* **Interactive Web Arcade:** A collection of state-managed browser applications ranging from classic games (Snake, Brick Breaker, Tic-Tac-Toe, Rock Paper Scissors) to interactive sports UI (Football Playground, live Cricket Match Score Dashboard).
-* **Python Banking System:** A robust backend architecture simulating real-world banking operations, handling secure account generation and encrypted data management.
+### 🌐 Full-Stack Web & Front-End
+* **Interactive Game Hub:** A centralized web platform featuring custom-built, playable arcade games.
+* **Superhero Movie Hub:** A dynamic web catalog and interactive database for comic book cinema.
+
+### ⚙️ Backend & Systems Architecture
+* **Python Banking System:** A secure, backend-driven architecture simulating core banking operations and data handling.
+* **Voice-to-Text Note Taker:** An automated transcription tool engineered as part of the broader FRIDAY AI ecosystem.
 
 ---
 
