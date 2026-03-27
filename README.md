@@ -20,7 +20,7 @@
 ```yaml
 name: Chitrabhanu Hazra
 location: Kolkata, West Bengal, India
-current_focus: "Engineering FRIDAY - A Python JARVIS-inspired AI Assistant"
+current_focus: "Medicare : AI medicin recommendation system"
 roles: [ML Engineer, Python Backend Developer, Full-Stack Game Creator]
 languages: [Python, Java, C, JavaScript, HTML/CSS]
 interests: [Predictive ML Models, Relational Databases, 3D Modeling, Web Arcade Games]
