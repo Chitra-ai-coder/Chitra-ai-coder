@@ -2,13 +2,9 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa28zcm13cDNtNHR4M2NuaTJmMWZqOGZhdmJmc2V2YjBiNzI1YnNyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n92hYPiFQ0efcCtrF/giphy.gif" alt="Profile Banner" width="100%" height="250" style="object-fit: cover;" />
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Hi,+I'm+Chitrabhanu+Hazra;ML+%26+Python+Backend+Developer;Data+Science+%26+3D+Modeling;Full-Stack+Web+Game+Creator" alt="Typing SVG" />
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chitra-ai-coder&color=E63946&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
@@ -20,7 +16,7 @@
   </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🧑‍💻 About Me
 
@@ -28,13 +24,14 @@
 name: Chitrabhanu Hazra
 location: Kolkata, West Bengal, India
 current_focus: "Medicare : AI medicin recommendation system"
-roles: [ML Engineer, Python Backend Developer, Full-Stack,Game Creator]
+roles: [ML Engineer, Python Backend Developer, Full-Stack, Game Creator]
 languages: [Python, Java, C, JavaScript, HTML/CSS]
 interests: [Predictive ML Models, Relational Databases, 3D Modeling, Web Arcade Games]
 fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D gaming environments by night 🚀"
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🛠️ The Tech Arsenal
 
 **Core Programming & Web** <br>
@@ -55,7 +52,7 @@ fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Mission Logs: Featured Projects
 
@@ -73,25 +70,19 @@ fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D 
 * **Python Banking System:** A secure, backend-driven architecture simulating core banking operations and data handling.
 * **Voice-to-Text Note Taker:** An automated transcription tool engineered as part of the broader FRIDAY AI ecosystem.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 Global Stats & Analytics
 
 <div align="center">
-  <!-- Highly stable Streak Stats server -->
   <img src="https://streak-stats.demolab.com/?user=Chitra-ai-coder&theme=radical&hide_border=true" alt="GitHub Streak" width="80%" />
 </div>
 
-<br>
-
 <div align="center">
-  <!-- The Activity Graph we know works perfectly -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitra-ai-coder&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
-<br>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 Code Contribution Matrix
 
@@ -103,7 +94,7 @@ fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D 
   </picture>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 Secure Connection
 
@@ -115,8 +106,6 @@ fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
-<br>
 
 <div align="center">
   <code>print("Avengers Assemble... and let's write some code.")</code>
