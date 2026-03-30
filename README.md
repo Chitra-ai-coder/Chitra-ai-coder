@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🧑‍💻 About Me
+### 🧑‍💻 ABOUT ME
 
 ```yaml
 name: Chitrabhanu Hazra
@@ -32,7 +32,7 @@ fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ The Tech Arsenal
+## 🛠️ THE TECH ARSENAL
 
 **Core Programming & Web** <br>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B" />
@@ -54,7 +54,7 @@ fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Mission Logs: Featured Projects
+## 💼 MISSION LOGS: FEATURED PROJECTS
 
 ### 🤖 AI & Machine Learning
 * **Med-Recommend AI:** A machine learning-based medicine recommendation system.
@@ -72,7 +72,7 @@ fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Global Stats & Analytics
+## 📈 GLOBAL STATS & ANALYTICS
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Chitra-ai-coder&theme=radical&hide_border=true" alt="GitHub Streak" width="80%" />
@@ -84,7 +84,7 @@ fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Code Contribution Matrix
+## 🐍 CODE CONTRIBUTION MATRIX
 
 <div align="center">
   <picture>
@@ -96,7 +96,7 @@ fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌐 Secure Connection
+## 🌐 SECURE CONNECTION
 
 <div align="center">
   <a href="https://github.com/Chitra-ai-coder">
