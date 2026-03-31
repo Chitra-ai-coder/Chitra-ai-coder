@@ -25,7 +25,7 @@ name: Chitrabhanu Hazra
 location: Kolkata, West Bengal, India
 current_focus: "Medicare : AI medicin recommendation system"
 roles: [ML Engineer, Python Backend Developer, Full-Stack, Game Creator]
-languages: [Python, Java, C, JavaScript, HTML/CSS]
+languages: [Python, Java, C , JavaScript, HTML/CSS]
 interests: [Predictive ML Models, Relational Databases, 3D Modeling, Web Arcade Games]
 fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D gaming environments by night 🚀"
 ```
