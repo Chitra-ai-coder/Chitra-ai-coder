@@ -36,40 +36,75 @@ fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D 
 
 **Core Programming & Web** <br>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
+**Backend & API Development** <br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
 **AI, Machine Learning & Data** <br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 
+**3D Modeling & Game Dev** <br>
+<img src="https://img.shields.io/badge/Blender-E27F00?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+
 **Architecture, DB & Tools** <br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 MISSION LOGS: FEATURED PROJECTS
 
-### 🤖 AI & Machine Learning
-* **Med-Recommend AI:** A machine learning-based medicine recommendation system.
-* **IPL Match Predictor:** A data-driven model forecasting cricket match outcomes based on historical stats.
-* **Real Estate Engine:** A house price prediction model analyzing market trends and valuations.
-* **Spam Mail Filter:** An NLP-powered classification model for intelligent inbox management.
+### 🤖 Machine Learning & Predictive Analytics
+* **Disease Prediction & Treatment System:** A predictive healthcare model that analyzes user-submitted symptoms to forecast potential illnesses and recommend clinically relevant medicines and care guidelines.
+* **IPL Match Predictor:** A data-driven sports analytics model that forecasts Indian Premier League match outcomes based on real-time historical stats, team matchups, and pitch conditions.
+* **Grid Intelligence Model:** A time-series forecasting engine engineered for automated power grid load prediction, capacity testing, and anomaly detection during normal and peak operations.
+* **Kolkata House Price Prediction Engine:** A localized real estate valuation model trained to analyze market trends, regional pricing data, and property features across Kolkata.
+* **Dual-Region Loan Approval System:** A cross-border financial risk evaluation system customized to process and analyze loan eligibility criteria using distinct regulatory parameters for India and the United States.
 
-### 🌐 Full-Stack Web & Front-End
-* **Interactive Game Hub:** A centralized web platform featuring custom-built, playable arcade games.
-* **Superhero Movie Hub:** A dynamic web catalog and interactive database for comic book cinema.
+### 🧠 Advanced AI & Cognitive Systems
+* **Emotion Detection Companion:** A highly responsive AI virtual companion utilizing sentiment analysis, vocal cue processing, and empathetic response generation to adapt to user moods.
+* **AI Notes Summarizer:** An intelligent text-processing application that leverages generative AI models to condense raw thoughts, meeting minutes, and text logs into structured summaries.
+* **AI Research Assistant:** A comprehensive document processing and literature review accelerator designed to extract citations, synthesize complex technical topics, and query dense scientific PDFs.
 
-### ⚙️ Backend & Systems Architecture
-* **Python Banking System:** A secure, backend-driven architecture simulating core banking operations and data handling.
-* **Voice-to-Text Note Taker:** An automated transcription tool engineered as part of the broader FRIDAY AI ecosystem.
+### ⚙️ Backend & Full-Stack Architectures
+* **Voice-to-Text Transcription Engine:** A robust audio processing tool engineered for real-time speech-to-text conversion, acting as an input framework for conversational AI systems.
+* **Smart Prompt Library:** A centralized repository designed for prompt engineers to store, tag, version-control, and optimize system prompts for various Large Language Models.
+* **Python Secure Banking System:** A modular backend architecture simulating secure transactions, account ledger auditing, and multi-user data storage protocols.
+* **Recipe Network:** A full-stack web application featuring deep search filtering, ingredient calculation, and user-generated recipe publishing pipelines.
+* **Food Court Billing System:** A responsive desktop and mobile billing terminal designed for food stall management, invoice generation, and real-time sales tracking.
+* **Interactive Arcade Game Hub:** A unified web station hosting a collection of classic arcade and puzzle games with high-score tracking and session persistence.
+* **Football Match Planner:** A team scheduling and tournament coordination platform providing pitch allocation, fixture generation, and lineup building tools.
+* **Superhero Movie Hub:** A dynamic content database and media indexing web portal featuring rich UI cards, casting timelines, and comic-to-screen cinema comparisons.
 
+### 🎨 Frontend Engineering & Interactive UI
+* **Dynamic Chess Simulator:** A lightweight, client-side chess game featuring customizable AI difficulty curves, movement validation, and neon atmospheric lighting cues (Blue vs. Red).
+* **Animated Ludo Board:** A fully optimized web implementation of the classic board game, complete with turn-handling animations and robust multiplayer rules for 2 to 4 players.
+* **Interactive Periodic Table:** A highly visual, responsive educational dashboard displaying elements with detailed atomic structures, group properties, and visual categorization.
+* **Galaxy Visualizer:** A stunning 3D cosmic simulator leveraging hardware-accelerated web graphics to render particle-based star systems and gravitational orbital dynamics.
+
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 GLOBAL STATS & ANALYTICS
