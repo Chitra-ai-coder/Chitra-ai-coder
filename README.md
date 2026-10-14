@@ -76,36 +76,36 @@ fun_fact: "I optimize heavy AI prediction algorithms by day and build custom 3D 
 
 ## 💼 MISSION LOGS: FEATURED PROJECTS
 
-### 🤖 Machine Learning & Predictive Analytics
-* **Disease Prediction & Treatment System:** A predictive healthcare model that analyzes user-submitted symptoms to forecast potential illnesses and recommend clinically relevant medicines and care guidelines.
-* **IPL Match Predictor:** A data-driven sports analytics model that forecasts Indian Premier League match outcomes based on real-time historical stats, team matchups, and pitch conditions.
-* **Grid Intelligence Model:** A time-series forecasting engine engineered for automated power grid load prediction, capacity testing, and anomaly detection during normal and peak operations.
-* **Kolkata House Price Prediction Engine:** A localized real estate valuation model trained to analyze market trends, regional pricing data, and property features across Kolkata.
-* **Dual-Region Loan Approval System:** A cross-border financial risk evaluation system customized to process and analyze loan eligibility criteria using distinct regulatory parameters for India and the United States.
+### 🤖 AI & MACHINE LEARNING
+* **Cyclone Core:** Multi-modal satellite image processing (YOLOv8, ResNet-50) for automated cyclone intensity estimation.
+* **MediGuide AI:** ML-driven symptom analysis and disease prediction system (includes Medicare integration).
+* **Medicine Recommendation System:** Machine learning model designed to analyze health data and suggest optimal medical treatments.
+* **Bank Loan Approval System:** Predictive ML model built to evaluate financial data and automate banking loan approvals.
+* **NoteFlow AI:** FastAPI & Groq Llama 3 app for zero-latency educational document summarization and flashcards.
+* **Predictive Models:** Custom data-driven algorithms for IPL match forecasting, real estate valuation, and spam filtering.
 
-### 🧠 Advanced AI & Cognitive Systems
-* **Emotion Detection Companion:** A highly responsive AI virtual companion utilizing sentiment analysis, vocal cue processing, and empathetic response generation to adapt to user moods.
-* **AI Notes Summarizer:** An intelligent text-processing application that leverages generative AI models to condense raw thoughts, meeting minutes, and text logs into structured summaries.
-* **AI Research Assistant:** A comprehensive document processing and literature review accelerator designed to extract citations, synthesize complex technical topics, and query dense scientific PDFs.
+### 🌐 FULL-STACK & SYSTEMS
+* **UCH Medical Center:** Enterprise EHR hospital management platform utilizing React 18, Firebase, and Gemini AI.
+* **AI Resume Builder:** Full-stack application engineered for automated, intelligent professional resume generation.
+* **Campus Bites:** Flask & SQL-based food court billing system featuring inventory tracking and manager analytics.
+* **RECIPE_ONE_PLACE:** Comprehensive culinary database and interface housing exactly 4,932 recipes.
+* **Voice to Text Converter:** Automated transcription tool engineered for seamless, accurate voice-driven data entry.
+* **Core Systems:** Secure Python-based banking architecture and backend data handling simulations.
 
-### ⚙️ Backend & Full-Stack Architectures
-* **Voice-to-Text Transcription Engine:** A robust audio processing tool engineered for real-time speech-to-text conversion, acting as an input framework for conversational AI systems.
-* **Smart Prompt Library:** A centralized repository designed for prompt engineers to store, tag, version-control, and optimize system prompts for various Large Language Models.
-* **Python Secure Banking System:** A modular backend architecture simulating secure transactions, account ledger auditing, and multi-user data storage protocols.
-* **Recipe Network:** A full-stack web application featuring deep search filtering, ingredient calculation, and user-generated recipe publishing pipelines.
-* **Food Court Billing System:** A responsive desktop and mobile billing terminal designed for food stall management, invoice generation, and real-time sales tracking.
-* **Interactive Arcade Game Hub:** A unified web station hosting a collection of classic arcade and puzzle games with high-score tracking and session persistence.
-* **Football Match Planner:** A team scheduling and tournament coordination platform providing pitch allocation, fixture generation, and lineup building tools.
-* **Superhero Movie Hub:** A dynamic content database and media indexing web portal featuring rich UI cards, casting timelines, and comic-to-screen cinema comparisons.
+### 🕸️ WEB DEVELOPMENT
+* **Smart Prompt Library:** Web-based interface and dynamic repository for organizing, managing, and utilizing AI prompts.
+* **Galaxy Visualization:** Interactive, visual web mapping of cosmic and space environments.
+* **Dynamic Periodic Table:** Responsive web-based periodic table designed for chemical element exploration.
+* **Web Board Games:** Fully playable browser-based implementations of classic Chess and Ludo.
+* **Superhero Movie Hub:** Dynamic web catalog and interactive database for comic book cinema.
 
-### 🎨 Frontend Engineering & Interactive UI
-* **Dynamic Chess Simulator:** A lightweight, client-side chess game featuring customizable AI difficulty curves, movement validation, and neon atmospheric lighting cues (Blue vs. Red).
-* **Animated Ludo Board:** A fully optimized web implementation of the classic board game, complete with turn-handling animations and robust multiplayer rules for 2 to 4 players.
-* **Interactive Periodic Table:** A highly visual, responsive educational dashboard displaying elements with detailed atomic structures, group properties, and visual categorization.
-* **Galaxy Visualizer:** A stunning 3D cosmic simulator leveraging hardware-accelerated web graphics to render particle-based star systems and gravitational orbital dynamics.
-
+### ⚙️ DESKTOP & GAMING SOFTWARE
+* **FRIDAY:** Dedicated Python-based emotion detection companion and automated assistant.
+* **Neural Game Arcade:** Centralized desktop gaming hub managing mechanics across 14 custom-built interactive mini-games.
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
 
 ## 📈 GLOBAL STATS & ANALYTICS
 
